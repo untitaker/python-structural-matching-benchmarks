@@ -1,6 +1,7 @@
 # Benchmarks for Python structural matching
 
 CPU: `AMD® Ryzen 7 pro 3700u w/ radeon vega mobile gfx × 8`
+
 CPython built from commit `58f8adfda3`.
 
 ```
